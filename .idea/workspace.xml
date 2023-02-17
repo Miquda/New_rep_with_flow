@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5714d082-f97a-4381-a812-9fa6174b95ed" name="Changes" comment="Добавил функцию, возвращающую строку заглавными буквами" />
+    <list default="true" id="5714d082-f97a-4381-a812-9fa6174b95ed" name="Changes" comment="add idea">
+      <change beforePath="$PROJECT_DIR$/str_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/str_func.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +47,35 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="str_func" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="New_rep_with_flow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/str_func.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.str_func" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676638550070</updated>
       <workItem from="1676638572719" duration="2555000" />
-      <workItem from="1676645044012" duration="503000" />
+      <workItem from="1676645044012" duration="814000" />
     </task>
     <task id="LOCAL-00001" summary="add idea">
       <created>1676639257049</created>
@@ -77,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676644866897</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add idea">
+      <created>1676645703151</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676645703152</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,12 +145,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add idea" />
     <MESSAGE value="add gitignore" />
     <MESSAGE value="Добавил функцию, возвращающую строку заглавными буквами" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил функцию, возвращающую строку заглавными буквами" />
+    <MESSAGE value="add idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="add idea" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/New_rep_with_flow$str_func.coverage" NAME="str_func Coverage Results" MODIFIED="1676644796940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/New_rep_with_flow$str_func.coverage" NAME="str_func Coverage Results" MODIFIED="1676645847002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
