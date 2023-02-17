@@ -1,5 +1,5 @@
 def upstr(user_string):
-    """функция делает возвращает строку заглавными буквами"""
+    """Какая-то работа другого разработчика"""
     return user_string.upper()
 
 def titlestr(user_string):
