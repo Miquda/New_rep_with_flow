@@ -1,5 +1,5 @@
 def upstr(user_string):
-    """Какая-то работа другого разработчика"""
+    """Какая-то работа другого разработчика, докстринг"""
     return user_string.upper()
 
 def titlestr(user_string):
